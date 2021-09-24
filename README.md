@@ -1,5 +1,5 @@
 Welcome to my GitHub profile page!
-I'm @wlgjs678 (Jiheon Kim).\n
+I'm @wlgjs678 (Jiheon Kim).
 I've published a multiple of projects I've done over the last 3 years at Montgomery College and University of Maryland.
 There are also personal projects published separately.
 
