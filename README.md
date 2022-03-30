@@ -1,6 +1,6 @@
 Welcome to my GitHub profile page!
 I'm Jiheon Kim (@wlgjs678).
-I've published a multiple of projects I've done over the last 2 years at Montgomery College (Rockville) and 1 year at University of Maryland (College Park).
+I've published a multiple of projects I've done over the last two years at Montgomery College (Germantown) and one year and a half at University of Maryland (College Park).
 There are also personal projects published separately.
 
 <!---
