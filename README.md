@@ -10,10 +10,8 @@ There are also personal projects published separately.
 I am currently enrolled at UMD (College Park) as an undergraduate and am planning to graduate in 2023 with a Bachelor's Degree in Computer Science.
 
 - How I chose to major in computer science:
-I discovered that I am interested in computer science while I was exploring various fields of studies at a community college (Montgomery College). 
-I decided to major in computer science at my second year when 
-am pursuing my career to become a software engineer.
-
+I discovered that I am interested in computer science while I was exploring various fields of studies at a community college (Montgomery College). I then set my academic goals related to computer science. I graduated from the community college with an Associate's Degree in Compupter Science and transferred to UMD.
+I am now pursuing my career to become a software engineer.
 
 <!---
 wlgjs678/wlgjs678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
