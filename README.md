@@ -12,7 +12,7 @@ I am currently enrolled at UMD (College Park) as an undergraduate and am plannin
 How I chose computer science:
 
 I discovered that I am interested in computer science while I was exploring various fields of studies at a community college (Montgomery College). I then set my academic goals related to computer science. I graduated from the community college with an Associate's Degree in Compupter Science and transferred to UMD (University of Maryland).
-I am now aiming to receive a Bachelor's Degree in Computer Science and am pursuing my career to become a software engineer after I graduate from UMD in 2023. 
+I am now aiming to receive a Bachelor's Degree in Computer Science and am pursuing my career to become a software engineer. 
 
 <!---
 wlgjs678/wlgjs678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
