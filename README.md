@@ -2,10 +2,10 @@
 
 I'm Jiheon Kim (@wlgjs678).
 
-# Note
+## Note
 I've published multiples of projects I've done over the last two years at Montgomery College (Germantown) and one year and a half at University of Maryland (College Park); there are also personal projects published separately.
 
-# About Me
+## About Me
 I am currently enrolled at UMD (College Park) as an undergraduate and am planning to graduate in 2023 with a Bachelor's Degree in Computer Science.
 
 - How I chose computer science:
@@ -13,7 +13,7 @@ I am currently enrolled at UMD (College Park) as an undergraduate and am plannin
 I discovered that I am interested in computer science while I was exploring various fields of studies at a community college (Montgomery College). I then set my academic goals related to computer science. I graduated from the community college with an Associate's Degree in Compupter Science and transferred to UMD (University of Maryland).
 I am now aiming to receive a Bachelor's Degree in Computer Science and am pursuing my career to become a software engineer. 
 
-- What I like:
+### What I like:
 
 I like spending time with friends and family, watching movies/dramas, playing video games, ATV off-roading, legos, etc.
 
