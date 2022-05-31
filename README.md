@@ -1,4 +1,4 @@
-Welcome to my GitHub profile page!
+## Welcome to my GitHub profile page!
 
 I'm Jiheon Kim (@wlgjs678).
 
