@@ -15,7 +15,7 @@ I am now aiming to receive a Bachelor's Degree in Computer Science and am pursui
 
 - What I like:
 
-I like spending time with friends and family, watching movies/dramas, playing video games, ATV off-roading, legos, etc.
+I like spending time with friends and family, ATV riding, Kayaking, watching movies/dramas, playing video games, legos, and many more!
 
 <!---
 wlgjs678/wlgjs678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
