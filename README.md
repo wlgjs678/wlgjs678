@@ -11,7 +11,9 @@ I'm currently enrolled at UMD (College Park) as an undergraduate and am planning
 - How I chose computer science:
 
 I discovered that I am interested in computer science while I was exploring various fields of studies at the community college. I found it facinating that I can contribute to various types of industries and societies with the knowledge and skills from computer science. Then, I set my academic goals related to computer science. I graduated from the community college with an Associate's Degree in Compupter Science and transferred to the University of Maryland to study more in depth.
+
 I am now aiming to receive a Bachelor's Degree in Computer Science by Dec. 2023 and am pursuing my career to become a software engineer.
+
 
 - What I like:
 
