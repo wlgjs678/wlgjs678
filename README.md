@@ -17,7 +17,7 @@ I am now aiming to receive a Bachelor's Degree in Computer Science by Dec. 2023 
 
 - What I like:
 
-I like spending time with friends and family, ATV riding, Kayaking, watching movies/dramas, playing video games, billiards, legos, and many more!
+I like spending time with my friends and family, ATV riding, Kayaking, watching movies/dramas, playing video games, billiards, legos, and many more!
 
 <!---
 wlgjs678/wlgjs678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
