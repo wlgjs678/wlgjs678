@@ -12,7 +12,7 @@ I'm currently enrolled at UMD (College Park) as an undergraduate and am planning
 
 I discovered that I'm interested in computer science while I was exploring various fields of study at the community college. I found it fascinating that I can contribute to various types of industries and societies with the knowledge and skills of computer science. Then, I set my academic goals related to computer science. I graduated from the community college with an Associate's Degree in Computer Science and transferred to the University of Maryland to study more in-depth.
 
-I'm also currently working at SociableAI as a backend developer to expand my skills  with hands-on experience and adapt to a working environment. I started this job in Feb. 2023.
+I'm also currently working at SociableAI as a software developer to expand my skills  with hands-on experience and adapt to a working environment. I started this job in Feb. 2023.
 Upon graduation, I'm pursuing my career to become a software engineer.
 
 
