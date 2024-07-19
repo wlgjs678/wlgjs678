@@ -9,7 +9,7 @@ I've published multiple projects I've done over the last two years at Montgomery
 I'm a recent graduate from UMD (College Park) with a Bachelor's Degree in Computer Science; I graduated in May 2024.
 
 I've worked at Sociable AI as a full-stack developer to expand my skills  with hands-on experience and adapt to a working environment for over a year.
-Now, I'm looking for a new opportunity to take the next step in becoming a better software engineer. Currently, I'm also studying AWS to get a certification as well as working on my personal project which will be posted both on GitHub and my portfolio page.
+Now, I'm looking for a new opportunity to take the next step in becoming a software engineer. Currently, I'm also studying AWS to get a certification as well as working on my personal project which will be posted both on GitHub and my portfolio page.
 
 - How I chose computer science:
 
