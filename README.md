@@ -6,10 +6,9 @@ I'm Jiheon Kim (@wlgjs678).
 I've published multiple projects I've done over the last two years at Montgomery College (Germantown) and three years at the University of Maryland (College Park); there are also personal projects published separately.
 
 ## About Me
-I'm currently enrolled at UMD (College Park) as an undergraduate and am planning to graduate in May 2024 with a Bachelor's Degree in Computer Science.
+I'm a recent graduate from UMD (College Park) with a Bachelor's Degree in Computer Science.
 
-I'm also currently working at SociableAI as a software developer to expand my skills  with hands-on experience and adapt to a working environment. I started this job in Feb. 2023.
-Upon graduation, I'm pursuing my career to become a software engineer.
+I've worked at Sociable AI as a full-stack developer to expand my skills  with hands-on experience and adapt to a working environment for over a year. Now, I'm taking the next step to become a better software engineer.
 
 - How I chose computer science:
 
