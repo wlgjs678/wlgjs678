@@ -3,7 +3,7 @@
 Hi, I'm Jiheon (@wlgjs678).
 
 ## Note
-I've published multiple projects I've done over the last two years at Montgomery College (Germantown) and three years at the University of Maryland (College Park); there are also personal projects published separately.
+I've published multiple projects I've done over the last two years at Montgomery College (Germantown) and four years at the University of Maryland (College Park); there are also personal projects published separately.
 
 ## About Me
 I'm a recent graduate from UMD (College Park) with a Bachelor's Degree in Computer Science; I graduated in May 2024.
